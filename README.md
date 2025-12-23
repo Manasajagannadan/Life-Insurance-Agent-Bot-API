@@ -8,7 +8,7 @@ Got fruitful and satisfactory results.
 
 Procedure:
 1. Run the all .py files and check the results
-2. mainly run Advanced_Chatbot_NLP_With_Voice.py file for final results
+2. mainly run Advanced_Chatbot_NLP_With_Voice.py file for final results.
 
 Thank you. 
 
